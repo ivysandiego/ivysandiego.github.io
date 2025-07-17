@@ -9,10 +9,17 @@ Welcome! I'm an aspiring cybersecurity professional focused on GRC, risk assessm
 
 ## 🧪 Projects
 - TryHackMe Beginner Room Walkthroughs
+- GRC mock assessments
 - CTF Recaps
 - Sample Policies (AUP, Incident Response)
 
 ## 📝 Blog
-- Coming soon!
+- [The frustration of "beginner level" THM rooms] (blog/thm-first.md)
+- [WiCys Conference 2025] (blog/conference-notes.md)
+
+  ## Tools & Topics
+  -NIST, CIS Controls, OWASP
+  -Linux + Windows CLI
+  -Markdown, Git, Python (basic)
 
 > Pseudonymous for now. Reach out via GitHub if needed.
