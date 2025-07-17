@@ -1,1 +1,6 @@
-jekyll-theme-slate
+title: Cyber Trail Portfolio
+description: Cyber Portfolio
+remote_theme: pages-themes/slate@0.2.0
+plugins:
+- jekyll-remote-theme
+
